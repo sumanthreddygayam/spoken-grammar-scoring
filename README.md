@@ -11,7 +11,7 @@ pipeline, every evaluation, the visualisations, and a written report (Section 10
 | | RMSE | Pearson r |
 |---|---|---|
 | Cross-validated (5-fold × 3 repeats, out-of-fold) | **0.460** | 0.89 |
-| Public leaderboard | **0.340** | n/a |
+| Public leaderboard | **0.3399** | n/a |
 | Training fit (in-sample) | 0.16 | 0.99 |
 
 ## Approach
