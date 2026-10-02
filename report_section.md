@@ -77,7 +77,7 @@ is the most interpretable part.
 | Training RMSE (in-sample, 732 rubric-scored clips) | 0.157 | see Section 8 |
 | Cross-validated (out-of-fold, 5-fold × 3 repeats) | 0.4626 | see Section 7 |
 | Test-mix CV (re-weighted to the test's 69 % short clips) | 0.5034 | n/a |
-| Public leaderboard: v1 / v2 / v3 / v4 (length-aware) / v4 snapped | 0.369 / 0.3555 / 0.3596 / 0.3464 / 0.3457 | n/a |
+| Public leaderboard: v1 / v2 / v3 / v4 (length-aware) / v4 snapped /v5 | 0.369 / 0.3555 / 0.3596 / 0.3464 / 0.3457 / 0.3399| n/a |
 
 **Why v3 scored slightly worse publicly despite better CV:** an RMSE measured on ≤ 216 clips has a sampling error of
 roughly ±0.02 at this error level. Changes of a few thousandths on the public leaderboard are within that noise.
