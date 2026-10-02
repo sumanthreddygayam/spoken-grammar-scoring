@@ -1,0 +1,10 @@
+# Competition data and large intermediate artifacts (not redistributed)
+kaggle-dataset/
+cache/
+submission*.csv
+
+# Environment / tooling
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
